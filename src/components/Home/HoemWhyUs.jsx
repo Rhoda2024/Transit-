@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../../assets/why-background.png'
+import img1 from '../../assets/why-Background.png'
 import icon1 from '../../assets/about-whyUsDelivery.png'
 import icon2 from '../../assets/About-whyUsOptimized.png'
 import img2 from '../../assets/girl.png'
